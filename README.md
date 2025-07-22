@@ -6,14 +6,14 @@ Official released on July 20 2025
 - [Teamwin Recovery Project](https://github.com/teamwin) - developer manifest
 - [Jamie](https://github.com/SavedByLight) - developer
 - [Naden](https://github.com/naden01) - developer 
-- [Maxim](https://github.com/Maxim-Root) - developer device owner main tester
+- [Maxim](https://github.com/Maxim-Root) - developer 
 - [Archer](https://github.com/archer0305) - developer
 - [Ahmed](https://github.com/GitFASTBOOT) - developer
 - [Carlo](https://github.com/cd-Crypton) - developer
 
 # Samsung S25
 <p align="left" width="100%">
-<img width="33%" src="https://github.com/Maxim-Rootg"> 
+<img width="33%" src="https://github.com/Maxim-Root"> 
 </p>
 
 
