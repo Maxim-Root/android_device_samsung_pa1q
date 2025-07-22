@@ -13,7 +13,7 @@ Official released on July 20 2025
 
 # Samsung S25 Edge 
 <p align="left" width="100%">
-<img width="33%" src="https://github.com/Maxim-Root"> 
+<img width="33%" src="https://github.com/Maxim-Root/Picture/blob/Samsung/S25Edge.jpg"> 
 </p>
 
 
